@@ -12,13 +12,5 @@ extraction.)</string>
     <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
 espresso with steamed milk and only a little milk foam poured over it. Serve in a
 latte glass or a coffee cup. Flavored syrup can be added.</string>
-    <string name="espresso_title">ESPRESSO</string>
-    <string name="espresso_desc">A strong, concentrated coffee (about 25-30 ml) brewed by forcing hot water through finely ground coffee beans. Served in a small espresso cup, it has a rich crema on top and a bold flavor.</string>
-
-    <string name="unsalted_latte_title">UNSALTED LATTE</string>
-    <string name="unsalted_latte_desc">A mild milk coffee (about 150-300 ml) made with espresso and steamed milk, without any added sugar or flavored syrup. Served in a latte glass or coffee cup, with a light layer of milk foam on top.</string>
-
     <string name="coffee_list">Coffee List</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
